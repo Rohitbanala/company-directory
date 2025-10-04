@@ -1,0 +1,525 @@
+{
+  "companies": [
+    {
+      "id": "company-1",
+      "name": "TechVision Ltd",
+      "industry": "Technology",
+      "location": "San Francisco, CA",
+      "employees": "201-500",
+      "description": "Leading provider of innovative solutions",
+      "founded": 2012,
+      "website": "https://techvision.com"
+    },
+    {
+      "id": "company-2",
+      "name": "DataFlow Ltd",
+      "industry": "Finance",
+      "location": "New York, NY",
+      "employees": "51-200",
+      "description": "Transforming industries through technology",
+      "founded": 2008,
+      "website": "https://dataflow.com"
+    },
+    {
+      "id": "company-3",
+      "name": "CloudPeak Ltd",
+      "industry": "E-commerce",
+      "location": "London, UK",
+      "employees": "11-50",
+      "description": "Building the future of digital experiences",
+      "founded": 2019,
+      "website": "https://cloudpeak.com"
+    },
+    {
+      "id": "company-4",
+      "name": "InnovateLabs Ltd",
+      "industry": "Healthcare",
+      "location": "Berlin, Germany",
+      "employees": "501-1000",
+      "description": "Empowering businesses with cutting-edge tools",
+      "founded": 2007,
+      "website": "https://innovatelabs.com"
+    },
+    {
+      "id": "company-5",
+      "name": "QuantumLeap Ltd",
+      "industry": "Education",
+      "location": "Tokyo, Japan",
+      "employees": "1-10",
+      "description": "Revolutionizing the way companies operate",
+      "founded": 2015,
+      "website": "https://quantumleap.com"
+    },
+    {
+      "id": "company-6",
+      "name": "NexusAI Ltd",
+      "industry": "Technology",
+      "location": "Singapore",
+      "employees": "201-500",
+      "description": "Creating seamless digital transformations",
+      "founded": 2020,
+      "website": "https://nexusai.com"
+    },
+    {
+      "id": "company-7",
+      "name": "StreamLine Ltd",
+      "industry": "Manufacturing",
+      "location": "Toronto, Canada",
+      "employees": "1000+",
+      "description": "Pioneering next-generation platforms",
+      "founded": 2004,
+      "website": "https://streamline.com"
+    },
+    {
+      "id": "company-8",
+      "name": "ByteCraft Ltd",
+      "industry": "Finance",
+      "location": "Sydney, Australia",
+      "employees": "11-50",
+      "description": "Delivering excellence through innovation",
+      "founded": 2023,
+      "website": "https://bytecraft.com"
+    },
+    {
+      "id": "company-9",
+      "name": "CodeHarbor Ltd",
+      "industry": "Technology",
+      "location": "Austin, TX",
+      "employees": "51-200",
+      "description": "Driving growth with smart solutions",
+      "founded": 2011,
+      "website": "https://codeharbor.com"
+    },
+    {
+      "id": "company-10",
+      "name": "FusionTech Ltd",
+      "industry": "E-commerce",
+      "location": "Seattle, WA",
+      "employees": "201-500",
+      "description": "Connecting people through technology",
+      "founded": 2017,
+      "website": "https://fusiontech.com"
+    },
+    {
+      "id": "company-11",
+      "name": "AlphaVentures Ltd",
+      "industry": "Education",
+      "location": "London, UK",
+      "employees": "11-50",
+      "description": "Leading provider of innovative solutions",
+      "founded": 2010,
+      "website": "https://alphaventures.com"
+    },
+    {
+      "id": "company-12",
+      "name": "BetaSystems Ltd",
+      "industry": "Healthcare",
+      "location": "Berlin, Germany",
+      "employees": "51-200",
+      "description": "Transforming industries through technology",
+      "founded": 2009,
+      "website": "https://betasystems.com"
+    },
+    {
+      "id": "company-13",
+      "name": "GammaWorks Ltd",
+      "industry": "Finance",
+      "location": "San Francisco, CA",
+      "employees": "201-500",
+      "description": "Building the future of digital experiences",
+      "founded": 2013,
+      "website": "https://gammaworks.com"
+    },
+    {
+      "id": "company-14",
+      "name": "DeltaCore Ltd",
+      "industry": "E-commerce",
+      "location": "New York, NY",
+      "employees": "501-1000",
+      "description": "Empowering businesses with cutting-edge tools",
+      "founded": 2016,
+      "website": "https://deltacore.com"
+    },
+    {
+      "id": "company-15",
+      "name": "EpsilonNet Ltd",
+      "industry": "Technology",
+      "location": "Tokyo, Japan",
+      "employees": "1-10",
+      "description": "Revolutionizing the way companies operate",
+      "founded": 2014,
+      "website": "https://epsilonnet.com"
+    },
+    {
+      "id": "company-16",
+      "name": "ZetaDigital Ltd",
+      "industry": "Real Estate",
+      "location": "Singapore",
+      "employees": "51-200",
+      "description": "Creating seamless digital transformations",
+      "founded": 2006,
+      "website": "https://zetadigital.com"
+    },
+    {
+      "id": "company-17",
+      "name": "EtaCloud Ltd",
+      "industry": "Technology",
+      "location": "Sydney, Australia",
+      "employees": "201-500",
+      "description": "Pioneering next-generation platforms",
+      "founded": 2003,
+      "website": "https://etacloud.com"
+    },
+    {
+      "id": "company-18",
+      "name": "ThetaData Ltd",
+      "industry": "Manufacturing",
+      "location": "Toronto, Canada",
+      "employees": "1000+",
+      "description": "Delivering excellence through innovation",
+      "founded": 2001,
+      "website": "https://thetadata.com"
+    },
+    {
+      "id": "company-19",
+      "name": "IotaSoft Ltd",
+      "industry": "Finance",
+      "location": "Austin, TX",
+      "employees": "201-500",
+      "description": "Driving growth with smart solutions",
+      "founded": 2022,
+      "website": "https://iotasoft.com"
+    },
+    {
+      "id": "company-20",
+      "name": "KappaLabs Ltd",
+      "industry": "Healthcare",
+      "location": "Seattle, WA",
+      "employees": "11-50",
+      "description": "Connecting people through technology",
+      "founded": 2018,
+      "website": "https://kappalabs.com"
+    },
+    {
+      "id": "company-21",
+      "name": "LambdaTech Inc",
+      "industry": "Technology",
+      "location": "London, UK",
+      "employees": "201-500",
+      "description": "Leading provider of innovative solutions",
+      "founded": 2007,
+      "website": "https://lambdatech.com"
+    },
+    {
+      "id": "company-22",
+      "name": "MuSystems Inc",
+      "industry": "E-commerce",
+      "location": "Berlin, Germany",
+      "employees": "501-1000",
+      "description": "Transforming industries through technology",
+      "founded": 2019,
+      "website": "https://musystems.com"
+    },
+    {
+      "id": "company-23",
+      "name": "NuVentures Inc",
+      "industry": "Finance",
+      "location": "San Francisco, CA",
+      "employees": "201-500",
+      "description": "Building the future of digital experiences",
+      "founded": 2005,
+      "website": "https://nuventures.com"
+    },
+    {
+      "id": "company-24",
+      "name": "XiSolutions Inc",
+      "industry": "Education",
+      "location": "Tokyo, Japan",
+      "employees": "51-200",
+      "description": "Empowering businesses with cutting-edge tools",
+      "founded": 2020,
+      "website": "https://xisolutions.com"
+    },
+    {
+      "id": "company-25",
+      "name": "OmicronAI Inc",
+      "industry": "Healthcare",
+      "location": "Singapore",
+      "employees": "1000+",
+      "description": "Revolutionizing the way companies operate",
+      "founded": 2011,
+      "website": "https://omicronai.com"
+    },
+    {
+      "id": "company-26",
+      "name": "PiNetwork Inc",
+      "industry": "Technology",
+      "location": "Sydney, Australia",
+      "employees": "51-200",
+      "description": "Creating seamless digital transformations",
+      "founded": 2002,
+      "website": "https://pinetwork.com"
+    },
+    {
+      "id": "company-27",
+      "name": "RhoTech Inc",
+      "industry": "Real Estate",
+      "location": "Toronto, Canada",
+      "employees": "201-500",
+      "description": "Pioneering next-generation platforms",
+      "founded": 2014,
+      "website": "https://rhotech.com"
+    },
+    {
+      "id": "company-28",
+      "name": "SigmaWorks Inc",
+      "industry": "Manufacturing",
+      "location": "Austin, TX",
+      "employees": "1000+",
+      "description": "Delivering excellence through innovation",
+      "founded": 2023,
+      "website": "https://sigmaworks.com"
+    },
+    {
+      "id": "company-29",
+      "name": "TauDigital Inc",
+      "industry": "Technology",
+      "location": "Seattle, WA",
+      "employees": "11-50",
+      "description": "Driving growth with smart solutions",
+      "founded": 2008,
+      "website": "https://taudigital.com"
+    },
+    {
+      "id": "company-30",
+      "name": "UpsilonData Inc",
+      "industry": "Finance",
+      "location": "London, UK",
+      "employees": "201-500",
+      "description": "Connecting people through technology",
+      "founded": 2016,
+      "website": "https://upsilondata.com"
+    },
+    {
+      "id": "company-31",
+      "name": "PhiSoft Inc",
+      "industry": "Healthcare",
+      "location": "Berlin, Germany",
+      "employees": "501-1000",
+      "description": "Leading provider of innovative solutions",
+      "founded": 2015,
+      "website": "https://phisoft.com"
+    },
+    {
+      "id": "company-32",
+      "name": "ChiLabs Inc",
+      "industry": "Education",
+      "location": "Singapore",
+      "employees": "51-200",
+      "description": "Transforming industries through technology",
+      "founded": 2010,
+      "website": "https://chilabs.com"
+    },
+    {
+      "id": "company-33",
+      "name": "PsiTech Inc",
+      "industry": "Technology",
+      "location": "San Francisco, CA",
+      "employees": "201-500",
+      "description": "Building the future of digital experiences",
+      "founded": 2009,
+      "website": "https://psitech.com"
+    },
+    {
+      "id": "company-34",
+      "name": "OmegaSystems Inc",
+      "industry": "Manufacturing",
+      "location": "New York, NY",
+      "employees": "501-1000",
+      "description": "Empowering businesses with cutting-edge tools",
+      "founded": 2018,
+      "website": "https://omegasystems.com"
+    },
+    {
+      "id": "company-35",
+      "name": "VelocityTech Inc",
+      "industry": "E-commerce",
+      "location": "Tokyo, Japan",
+      "employees": "1-10",
+      "description": "Revolutionizing the way companies operate",
+      "founded": 2021,
+      "website": "https://velocitytech.com"
+    },
+    {
+      "id": "company-36",
+      "name": "ApexInnovations Inc",
+      "industry": "Finance",
+      "location": "Singapore",
+      "employees": "11-50",
+      "description": "Creating seamless digital transformations",
+      "founded": 2007,
+      "website": "https://apexinnovations.com"
+    },
+    {
+      "id": "company-37",
+      "name": "ZenithSolutions Inc",
+      "industry": "Healthcare",
+      "location": "Sydney, Australia",
+      "employees": "201-500",
+      "description": "Pioneering next-generation platforms",
+      "founded": 2001,
+      "website": "https://zenithsolutions.com"
+    },
+    {
+      "id": "company-38",
+      "name": "PrimeTech Inc",
+      "industry": "Technology",
+      "location": "Toronto, Canada",
+      "employees": "51-200",
+      "description": "Delivering excellence through innovation",
+      "founded": 2012,
+      "website": "https://primetech.com"
+    },
+    {
+      "id": "company-39",
+      "name": "CoreDynamics Inc",
+      "industry": "E-commerce",
+      "location": "Austin, TX",
+      "employees": "1000+",
+      "description": "Driving growth with smart solutions",
+      "founded": 2005,
+      "website": "https://coredynamics.com"
+    },
+    {
+      "id": "company-40",
+      "name": "NovaLabs Inc",
+      "industry": "Education",
+      "location": "Seattle, WA",
+      "employees": "11-50",
+      "description": "Connecting people through technology",
+      "founded": 2008,
+      "website": "https://novalabs.com"
+    },
+    {
+      "id": "company-41",
+      "name": "PulseWorks Inc",
+      "industry": "Technology",
+      "location": "San Francisco, CA",
+      "employees": "51-200",
+      "description": "Leading provider of innovative solutions",
+      "founded": 2013,
+      "website": "https://pulseworks.com"
+    },
+    {
+      "id": "company-42",
+      "name": "SparkDigital Inc",
+      "industry": "Finance",
+      "location": "New York, NY",
+      "employees": "201-500",
+      "description": "Transforming industries through technology",
+      "founded": 2010,
+      "website": "https://sparkdigital.com"
+    },
+    {
+      "id": "company-43",
+      "name": "FlashTech Inc",
+      "industry": "Technology",
+      "location": "Berlin, Germany",
+      "employees": "501-1000",
+      "description": "Building the future of digital experiences",
+      "founded": 2019,
+      "website": "https://flashtech.com"
+    },
+    {
+      "id": "company-44",
+      "name": "BoltSystems Inc",
+      "industry": "Manufacturing",
+      "location": "Tokyo, Japan",
+      "employees": "1000+",
+      "description": "Empowering businesses with cutting-edge tools",
+      "founded": 2022,
+      "website": "https://boltsystems.com"
+    },
+    {
+      "id": "company-45",
+      "name": "ThunderCore Inc",
+      "industry": "E-commerce",
+      "location": "Singapore",
+      "employees": "51-200",
+      "description": "Revolutionizing the way companies operate",
+      "founded": 2017,
+      "website": "https://thundercore.com"
+    },
+    {
+      "id": "company-46",
+      "name": "StormCloud Inc",
+      "industry": "Healthcare",
+      "location": "Sydney, Australia",
+      "employees": "201-500",
+      "description": "Creating seamless digital transformations",
+      "founded": 2014,
+      "website": "https://stormcloud.com"
+    },
+    {
+      "id": "company-47",
+      "name": "LightningData Inc",
+      "industry": "Technology",
+      "location": "Toronto, Canada",
+      "employees": "51-200",
+      "description": "Pioneering next-generation platforms",
+      "founded": 2009,
+      "website": "https://lightningdata.com"
+    },
+    {
+      "id": "company-48",
+      "name": "VortexAI Inc",
+      "industry": "Finance",
+      "location": "Austin, TX",
+      "employees": "201-500",
+      "description": "Delivering excellence through innovation",
+      "founded": 2006,
+      "website": "https://vortexai.com"
+    },
+    {
+      "id": "company-49",
+      "name": "TempestLabs Inc",
+      "industry": "Technology",
+      "location": "Seattle, WA",
+      "employees": "501-1000",
+      "description": "Driving growth with smart solutions",
+      "founded": 2018,
+      "website": "https://tempestlabs.com"
+    },
+    {
+      "id": "company-50",
+      "name": "CycloneTech Inc",
+      "industry": "E-commerce",
+      "location": "London, UK",
+      "employees": "1-10",
+      "description": "Connecting people through technology",
+      "founded": 2011,
+      "website": "https://cyclonetech.com"
+    }
+  ],
+  "industries": [
+    { "id": 1, "name": "Technology" },
+    { "id": 2, "name": "Finance" },
+    { "id": 3, "name": "E-commerce" },
+    { "id": 4, "name": "Healthcare" },
+    { "id": 5, "name": "Education" },
+    { "id": 6, "name": "Manufacturing" },
+    { "id": 7, "name": "Real Estate" }
+  ],
+  "locations": [
+    { "id": 1, "name": "San Francisco, CA" },
+    { "id": 2, "name": "New York, NY" },
+    { "id": 3, "name": "London, UK" },
+    { "id": 4, "name": "Berlin, Germany" },
+    { "id": 5, "name": "Tokyo, Japan" },
+    { "id": 6, "name": "Singapore" },
+    { "id": 7, "name": "Sydney, Australia" },
+    { "id": 8, "name": "Toronto, Canada" },
+    { "id": 9, "name": "Austin, TX" },
+    { "id": 10, "name": "Seattle, WA" }
+  ]
+}
