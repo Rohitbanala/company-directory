@@ -10,7 +10,7 @@ export default function CompaniesDirectory() {
   const [page, setPage] = useState(0);
   const companySkeletons = [1, 2, 3, 4, 5, 6];
   const { data, filterCompanies, loading, error } = useFetchCompanies(
-    "http://localhost:8080/api/allcompanies",
+    "http://localhost:9090/api/allcompanies",
     page,
     6
   );
