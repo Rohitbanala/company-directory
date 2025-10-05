@@ -10,7 +10,7 @@ export default function CompaniesDirectory() {
   const [page, setPage] = useState(0);
   const companySkeletons = [1, 2, 3, 4, 5, 6];
   const { data, filterCompanies, loading, error } = useFetchCompanies(
-    "http://localhost:8080/api/allcompanie",
+    "http://localhost:8080/api/allcompanies",
     page,
     6
   );
@@ -30,11 +30,12 @@ export default function CompaniesDirectory() {
       <div className="grid md:grid-cols-3 gap-6">
         {loading &&
           companySkeletons.map((index) => <CompanyCardSkeleton key={index} />)}
+
         {error ? (
-          <div className="flex justify-center items-center h-40">
-            <p className="text-red-600 text-lg font-semibold content-center">
+          <div className="col-span-3 flex justify-center items-center h-40">
+            <p className="text-red-600 text-lg font-semibold text-center">
               {error.response?.data ||
-                "There are no companies found in location."}
+                "Something went wrong. Please try again later."}
             </p>
           </div>
         ) : (
@@ -53,6 +54,7 @@ export default function CompaniesDirectory() {
           ))
         )}
       </div>
+
       <Pagination
         page={page}
         totalPages={data?.totalPages}

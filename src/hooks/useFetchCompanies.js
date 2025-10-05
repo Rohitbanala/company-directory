@@ -30,6 +30,7 @@ export const useFetchCompanies = (url, page, size) => {
       } catch (err) {
         setError(err);
         setFilteredCompanies([]);
+        setData({ totalElements: 0, totalPages: 0 });
       } finally {
         setLoading(false);
       }
