@@ -2,9 +2,7 @@ import Header from "../Components/Header";
 import SearchFilters from "../Components/SearchFilter";
 import CompanyCard from "../Components/CompanyCard";
 import CompanyCardSkeleton from "../Components/CompanyCardSkeleton";
-import axios from "axios";
 import { useState, useEffect, useContext } from "react";
-import { FilterContext } from "../App";
 import { useFetchCompanies } from "../hooks/useFetchCompanies";
 import Pagination from "../Components/pagination";
 
@@ -12,7 +10,7 @@ export default function CompaniesDirectory() {
   const [page, setPage] = useState(0);
   const companySkeletons = [1, 2, 3, 4, 5, 6];
   const { data, filterCompanies, loading, error } = useFetchCompanies(
-    "http://localhost:8080/api/allcompanies",
+    "http://localhost:8080/api/allcompanie",
     page,
     6
   );
