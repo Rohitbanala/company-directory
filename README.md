@@ -1,16 +1,60 @@
-# React + Vite
+# 📘 Companies Directory – Frontend Development
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive **React.js** web application that displays a list of companies with filtering, sorting, and search capabilities. This project was built as part of the **Frontend Developer Assessment** for **Frontlines Media**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Project Overview
 
-## React Compiler
+The application allows users to:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* View a list of companies in a **card or table layout**
+* **Filter companies** by industry, location, or name
+* **Search** companies by name
+* **Sort** companies 
+* Handle **loading and error states** gracefully
+* Maintain global state using **React Context API / Hooks**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧩 Tech Stack
+
+* **Frontend:** React.js
+* **Styling:** Tailwind CSS
+* **State Management:** React Hooks / Context API
+* **API / Data Source:** own backend using springboot (mocked backend)
+
+
+## 🎯 Features Implemented
+
+✅ Responsive UI using Tailwind CSS
+✅ Company listing with cards
+✅ Filtering by industry and location
+✅ Search by name
+✅ Sorting
+✅ Loading & error states
+✅ Global state management (Context API)
+✅ Optional pagination
+
+---
+
+## 🧠 Design & Approach
+
+* Focused on clean component structure and reusability.
+* Managed shared state through Context API for scalability.
+* Used Tailwind for rapid and responsive styling.
+* Mocked API data for ease of integration and testing.
+
+---
+
+## 🎥 Demo
+
+* **Live Demo / Video Walkthrough:** [[]](https://screenrec.com/share/6nROBTCoEv)
+
+---
+
+## 👨‍💻 Author
+
+**Rohit Banala**
+Frontend Developer Candidate – Frontlines Media
+📧 [[rohitbanala2003@gmail.com](mailto:rohitbanala2003@gmail.com)]
