@@ -49,7 +49,7 @@ The application allows users to:
 
 ## 🎥 Demo
 
-* **Live Demo / Video Walkthrough:** [[]](https://screenrec.com/share/6nROBTCoEv)
+* **Live Demo / Video Walkthrough:** [[video]](https://screenrec.com/share/6nROBTCoEv)
 
 ---
 
